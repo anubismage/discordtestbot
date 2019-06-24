@@ -43,7 +43,7 @@ url = "https://www.youtube.com/watch?v=QKRi3SvCQqE"
 
 #
 #     if ";getinv" in message.content.lower():
-#         await message.channel.send('https://discord.gg/TfFMdq4')
+#         await message.channel.send('https://discord.gg/:)')
 #     if ";selfdestruct" in message.content.lower():
 #         await message.channel.send("https://tenor.com/view/explosion-mushroom-cloud-atomic-bomb-atomic-a-bomb-gif-4464831")
 #     if ";no u" in message.content.lower():
@@ -112,7 +112,7 @@ async def severinfo(ctx):
 
 @client.command()
 async def getinv(ctx):
-    await ctx.channel.send('discord.gg/TfFMdq4')
+    await ctx.channel.send('discord.gg/:)')
 
 @client.command()
 async def join(ctx):
