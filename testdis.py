@@ -172,4 +172,4 @@ async def on_member_remove(member):
     print(f'{member} has left the sever.')
 
 
-client.run('MzQ2NTQ4Mjk5MjkxMDMzNjAw.XOzUtw.s1WEW7uJQzD7pT6s2ibzMAcMT2Y')
+client.run('lalalallal')
